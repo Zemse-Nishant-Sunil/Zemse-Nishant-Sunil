@@ -1,5 +1,9 @@
 # 💫 About Me:
-👋 Hi, I'm Nishant Zemse<br>🚀 AI Developer building impactful systems in healthcare, education, and smart infrastructure 🎓 B.Tech Computer Engineering (RAIT) | Open to internship opportunities<br><br>🧠 What I Do<br>🤖 Build AI-powered applications<br>🌐 Develop scalable web systems<br>🧩 Solve real-world problems<br>🔥 Featured Projects<br>🏥 AI Healthcare Symptom Analysis<br>🧠 ManoRakshak – Mental Health AI<br>🚇 TransitFlow – Smart Transport<br>📚 AdaptPrep – AI Learning Platform<br>🛠 Tech Stack<br>Python, HTML, CSS<br>Node.js, React<br>AI Tools: ChatGPT, Claude, OpenAI, GitHub Copilot<br>📫 Connect<br>LinkedIn: https://www.linkedin.com/in/zemse-nishant<br>⭐ Always learning. Always building.
+👋 Hi, I'm Nishant Zemse<br>🚀 AI Developer building impactful systems in healthcare, education, and smart infrastructure 🎓 B.Tech Computer Engineering (RAIT) | Open to internship opportunities<br><br>🧠 What I Do<br>🤖 Build AI-powered applications<br>🌐 Develop scalable web systems<br>🧩 Solve real-world problems<br>🔥 Featured Projects<br>🏥 AI Healthcare Symptom Analysis<br>🧠 ManoRakshak – Mental Health AI<br>🚇 TransitFlow – Smart Transport<br>📚 AdaptPrep – AI Learning Platform<br>🛠 Tech Stack<br>Python, HTML, CSS<br>Node.js, React<br>🏆 Achievements & Certifications<br>
+🎓 Python Certification – IIT Bombay (Spoken Tutorial)<br>
+🚀 Participant – Navonmesh National Hackathon 2026<br>
+🚀 Participant – SPIT Hackathon 2026<br>
+🏆 2nd Runner-Up – Logic Lord Competition<br>AI Tools: ChatGPT, Claude, OpenAI, GitHub Copilot<br>📫 Connect<br>LinkedIn: https://www.linkedin.com/in/zemse-nishant<br>⭐ Always learning. Always building.
 
 
 ## 🌐 Socials:
