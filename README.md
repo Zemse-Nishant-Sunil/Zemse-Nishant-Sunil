@@ -85,14 +85,3 @@ LinkedIn: https://www.linkedin.com/in/zemse-nishant<br>
 </p>
 
 ---
-
-### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Zemse-Nishant-Sunil&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&cache_seconds=86400" alt="Top Contributed Repositories"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Zemse-Nishant-Sunil&icon=5&color=0" alt="Visitor Count"/>
-</p>
