@@ -61,14 +61,15 @@ LinkedIn: https://www.linkedin.com/in/zemse-nishant<br>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
 ---
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zemse-Nishant-Sunil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" onerror="this.style.display='none'"/>
-  <img src="https://streak-stats.demolab.com?user=Zemse-Nishant-Sunil&theme=tokyonight&hide_border=true" height="180" onerror="this.style.display='none'"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Zemse-Nishant-Sunil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Zemse-Nishant-Sunil&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zemse-Nishant-Sunil&layout=compact&theme=tokyonight&hide_border=true" height="150" onerror="this.style.display='none'"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zemse-Nishant-Sunil&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="" height="150"/>
 </p>
 
 ## 👀 Profile Views
