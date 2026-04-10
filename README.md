@@ -63,12 +63,12 @@ LinkedIn: https://www.linkedin.com/in/zemse-nishant<br>
 ---
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zemse-Nishant-Sunil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="180" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=Zemse-Nishant-Sunil&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Zemse-Nishant-Sunil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" onerror="this.style.display='none'"/>
+  <img src="https://streak-stats.demolab.com?user=Zemse-Nishant-Sunil&theme=tokyonight&hide_border=true" height="180" onerror="this.style.display='none'"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zemse-Nishant-Sunil&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zemse-Nishant-Sunil&layout=compact&theme=tokyonight&hide_border=true" height="150" onerror="this.style.display='none'"/>
 </p>
 
 ## 👀 Profile Views
